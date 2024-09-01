@@ -1,0 +1,6 @@
+@YATDA.TaskService_HostAddress = http://localhost:5143
+
+GET {{YATDA.TaskService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
